@@ -1,6 +1,6 @@
 # Hello world
 
-[![CMake](https://github.com/mupfdev/hello-world/workflows/cmake.yml/badge.svg)](https://github.com/mupfdev/hello-world/actions/workflows/cmake.yml)
+[![CMake](https://github.com/mupfdev/hello-world/actions/workflows/cmake.yml/badge.svg)](https://github.com/mupfdev/hello-world/actions/workflows/cmake.yml)
 
 A simple project template.
 
