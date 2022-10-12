@@ -1,5 +1,6 @@
 # Hello world
 
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/d6c95294065d4ba1a4af400e4aaa8686)](https://www.codacy.com/gh/mupfdev/hello-world/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mupfdev/hello-world&amp;utm_campaign=Badge_Grade)
 [![CMake](https://github.com/mupfdev/hello-world/actions/workflows/cmake.yml/badge.svg)](https://github.com/mupfdev/hello-world/actions/workflows/cmake.yml)
 
 A simple project template.
